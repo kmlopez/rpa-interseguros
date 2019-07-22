@@ -7,23 +7,13 @@ assignees: ''
 
 ---
 
-| Item | Detalle |
-
-|--------------------| --------------------|
-
-| Descripción   | Completar   |
-
-| Process Owner  | Completar  |
-
-| Key Users  | Completar  |
-
-| Notas | Completar   |
-
-| Link relacionado (Box) | Completar   |
-
-| Criterio de aceptación | PDD Aprobado, SDD Aprobado, Código de Bot (.atmx), Manual de Instalación, Manual de Operación   |
-
-| First Header  | Second Header |
+| Item  | Detalle |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Descripción  | Completar  |
+| Process Owner  | Completar  |
+| Key Users  | Completar  |
+| Notas  | Completar  |
+| Link relacionado (Box)  | Completar  |
+| Criterio de aceptación  | PDD Aprobado, SDD Aprobado, Código de Bot (.atmx), Manual de Instalación, Manual de Operación  |
+| Criterio de aceptación  | Completar  |
+| Criterio de aceptación  | Completar  |
