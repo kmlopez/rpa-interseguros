@@ -14,4 +14,5 @@ assignees: ''
 | Key Users  | Completar  |
 | Notas  | Completar  |
 | Link relacionado (Box)  | Completar  |
+| Link relacionado (Box)  | Completar  |
 | Criterios de Aceptación  | PDD Aprobado, SDD Aprobado, Código de Bot (.atmx), Manual de Instalación, Manual de Operación  |
