@@ -13,4 +13,5 @@ assignees: ''
 | Persona de Contacto  | Completar  |
 | Notas  | Completar  |
 | Link relacionado (Box)  | Completar  |
+| Fecha Estimada  | Completar  |
 | Criterios de aceptación  | Completar  |
