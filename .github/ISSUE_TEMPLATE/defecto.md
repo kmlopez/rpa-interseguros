@@ -1,6 +1,6 @@
 ---
-name: Epica
-about: Creación de  ueva Epica
+name: Defecto
+about: Creación de evidencia de defecto
 title: ''
 labels: ''
 assignees: ''
